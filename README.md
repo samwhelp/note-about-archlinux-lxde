@@ -26,7 +26,7 @@
 
 | 微調腳本 |
 | --- |
-| [Archlinux Lxde Config](https://github.com/samwhelp/archlinux-lxde-adjustment/tree/main/prototype/main/lxde-config/Main) |
+| [Archlinux Lxde Config](https://github.com/samwhelp/archlinux-lxde-adjustment/tree/main/prototype/main/lxde-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
